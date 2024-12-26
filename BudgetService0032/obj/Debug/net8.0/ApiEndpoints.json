@@ -1,0 +1,108 @@
+[
+  {
+    "ContainingType": "BudgetService0032.Controllers.BudgetController0032",
+    "Method": "AddExpense",
+    "RelativePath": "api/BudgetController0032/{categoryId}/AddExpense",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoryId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "expense",
+        "Type": "BudgetService0032.Models.Expense0032",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BudgetService0032.Controllers.BudgetController0032",
+    "Method": "GetBudget",
+    "RelativePath": "api/BudgetController0032/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BudgetService0032.Controllers.BudgetController0032",
+    "Method": "UpdateBudget",
+    "RelativePath": "api/BudgetController0032/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedBudget",
+        "Type": "BudgetService0032.Models.Budget0032",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BudgetService0032.Controllers.BudgetController0032",
+    "Method": "DeleteBudget",
+    "RelativePath": "api/BudgetController0032/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BudgetService0032.Controllers.BudgetController0032",
+    "Method": "GetBudgetCategories",
+    "RelativePath": "api/BudgetController0032/{id}/Categories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BudgetService0032.Controllers.BudgetController0032",
+    "Method": "CreateBudget",
+    "RelativePath": "api/BudgetController0032/CreateBudget",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "budget",
+        "Type": "BudgetService0032.Models.Budget0032",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

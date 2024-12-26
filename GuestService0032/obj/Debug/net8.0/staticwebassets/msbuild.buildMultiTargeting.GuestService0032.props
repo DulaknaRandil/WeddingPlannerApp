@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GuestService0032.props" />
+</Project>

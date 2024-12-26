@@ -1,0 +1,12 @@
+D:\Programming projects\.NET\WeddingPlannerApp\EventBus\obj\Debug\net8.0\EventBus0032.csproj.AssemblyReference.cache
+D:\Programming projects\.NET\WeddingPlannerApp\EventBus\obj\Debug\net8.0\EventBus0032.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming projects\.NET\WeddingPlannerApp\EventBus\obj\Debug\net8.0\EventBus0032.AssemblyInfoInputs.cache
+D:\Programming projects\.NET\WeddingPlannerApp\EventBus\obj\Debug\net8.0\EventBus0032.AssemblyInfo.cs
+D:\Programming projects\.NET\WeddingPlannerApp\EventBus\obj\Debug\net8.0\EventBus0032.csproj.CoreCompileInputs.cache
+D:\Programming projects\.NET\WeddingPlannerApp\EventBus\bin\Debug\net8.0\EventBus0032.deps.json
+D:\Programming projects\.NET\WeddingPlannerApp\EventBus\bin\Debug\net8.0\EventBus0032.dll
+D:\Programming projects\.NET\WeddingPlannerApp\EventBus\bin\Debug\net8.0\EventBus0032.pdb
+D:\Programming projects\.NET\WeddingPlannerApp\EventBus\obj\Debug\net8.0\EventBus0032.dll
+D:\Programming projects\.NET\WeddingPlannerApp\EventBus\obj\Debug\net8.0\refint\EventBus0032.dll
+D:\Programming projects\.NET\WeddingPlannerApp\EventBus\obj\Debug\net8.0\EventBus0032.pdb
+D:\Programming projects\.NET\WeddingPlannerApp\EventBus\obj\Debug\net8.0\ref\EventBus0032.dll

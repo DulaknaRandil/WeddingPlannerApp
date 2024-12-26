@@ -1,0 +1,134 @@
+[
+  {
+    "ContainingType": "TaskService0032.Controllers.TaskController0032",
+    "Method": "AddCheckListItem",
+    "RelativePath": "api/TaskController0032/AddCheckListItem",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "item",
+        "Type": "TaskService0032.Models.TaskCheckList0032",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskService0032.Controllers.TaskController0032",
+    "Method": "CreateTask",
+    "RelativePath": "api/TaskController0032/CreateTask",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "task",
+        "Type": "TaskService0032.Models.Task0032",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskService0032.Controllers.TaskController0032",
+    "Method": "DeleteTask",
+    "RelativePath": "api/TaskController0032/DeleteTask/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskService0032.Controllers.TaskController0032",
+    "Method": "GetAllTasks",
+    "RelativePath": "api/TaskController0032/GetAllTasks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskService0032.Controllers.TaskController0032",
+    "Method": "GetTaskById",
+    "RelativePath": "api/TaskController0032/GetTaskById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskService0032.Controllers.TaskController0032",
+    "Method": "GetTaskCheckList",
+    "RelativePath": "api/TaskController0032/GetTaskCheckList/{taskId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taskId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskService0032.Controllers.TaskController0032",
+    "Method": "UpdateCheckListItem",
+    "RelativePath": "api/TaskController0032/UpdateCheckListItem/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedItem",
+        "Type": "TaskService0032.Models.TaskCheckList0032",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskService0032.Controllers.TaskController0032",
+    "Method": "UpdateTask",
+    "RelativePath": "api/TaskController0032/UpdateTask/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedTask",
+        "Type": "TaskService0032.Models.Task0032",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

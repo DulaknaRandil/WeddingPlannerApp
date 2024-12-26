@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BudgetService0032.props" />
+</Project>

@@ -1,0 +1,47 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "EventService0032\\EventService0032.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Name": "GuestService0032\\GuestService0032.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Name": "VendorService0032\\VendorService0032.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Name": "BudgetService0032\\BudgetService0032.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Name": "TaskService0032\\TaskService0032.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Name": "NotificationService0032\\NotificationService0032.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Name": "APIGateway\\APIGateway\\APIGateway0032.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Name": "EventBus\\EventBus0032.csproj",
+        "Action": "Start",
+        "DebugTarget": "EventBus0032"
+      }
+    ]
+  }
+]

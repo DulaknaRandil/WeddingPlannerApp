@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "EventService0032.Controllers.EventController0032",
+    "Method": "CreateEvent0032",
+    "RelativePath": "api/EventController0032/CreateEvent0032",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newEvent",
+        "Type": "EventService0032.Models.Event0032",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EventService0032.Controllers.EventController0032",
+    "Method": "DeleteEvent0032",
+    "RelativePath": "api/EventController0032/DeleteEvent0032/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EventService0032.Controllers.EventController0032",
+    "Method": "GetAllEvents0032",
+    "RelativePath": "api/EventController0032/GetAllEvents0032",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EventService0032.Controllers.EventController0032",
+    "Method": "GetEventById0032",
+    "RelativePath": "api/EventController0032/GetEventById0032/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EventService0032.Controllers.EventController0032",
+    "Method": "UpdateEvent0032",
+    "RelativePath": "api/EventController0032/UpdateEvent0032/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedEvent",
+        "Type": "EventService0032.Models.Event0032",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

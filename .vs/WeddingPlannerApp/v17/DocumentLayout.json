@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming projects\\.NET\\WeddingPlannerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A834C1A3-7D9F-47BF-875F-6A83C48B83AE}|TaskService0032\\TaskService0032.csproj|d:\\programming projects\\.net\\weddingplannerapp\\taskservice0032\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A834C1A3-7D9F-47BF-875F-6A83C48B83AE}|TaskService0032\\TaskService0032.csproj|solutionrelative:taskservice0032\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE0B331-A14C-45DC-835D-2C0372E364BF}|NotificationService0032\\NotificationService0032.csproj|d:\\programming projects\\.net\\weddingplannerapp\\notificationservice0032\\services\\notificationservice0032.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE0B331-A14C-45DC-835D-2C0372E364BF}|NotificationService0032\\NotificationService0032.csproj|solutionrelative:notificationservice0032\\services\\notificationservice0032.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A834C1A3-7D9F-47BF-875F-6A83C48B83AE}|TaskService0032\\TaskService0032.csproj|d:\\programming projects\\.net\\weddingplannerapp\\taskservice0032\\services\\iservice\\itaskservice0032.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A834C1A3-7D9F-47BF-875F-6A83C48B83AE}|TaskService0032\\TaskService0032.csproj|solutionrelative:taskservice0032\\services\\iservice\\itaskservice0032.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A834C1A3-7D9F-47BF-875F-6A83C48B83AE}|TaskService0032\\TaskService0032.csproj|d:\\programming projects\\.net\\weddingplannerapp\\taskservice0032\\services\\task0032service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A834C1A3-7D9F-47BF-875F-6A83C48B83AE}|TaskService0032\\TaskService0032.csproj|solutionrelative:taskservice0032\\services\\task0032service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE0B331-A14C-45DC-835D-2C0372E364BF}|NotificationService0032\\NotificationService0032.csproj|d:\\programming projects\\.net\\weddingplannerapp\\notificationservice0032\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE0B331-A14C-45DC-835D-2C0372E364BF}|NotificationService0032\\NotificationService0032.csproj|solutionrelative:notificationservice0032\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE0B331-A14C-45DC-835D-2C0372E364BF}|NotificationService0032\\NotificationService0032.csproj|d:\\programming projects\\.net\\weddingplannerapp\\notificationservice0032\\handlers\\taskupdatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE0B331-A14C-45DC-835D-2C0372E364BF}|NotificationService0032\\NotificationService0032.csproj|solutionrelative:notificationservice0032\\handlers\\taskupdatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE0B331-A14C-45DC-835D-2C0372E364BF}|NotificationService0032\\NotificationService0032.csproj|d:\\programming projects\\.net\\weddingplannerapp\\notificationservice0032\\handlers\\taskcreatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE0B331-A14C-45DC-835D-2C0372E364BF}|NotificationService0032\\NotificationService0032.csproj|solutionrelative:notificationservice0032\\handlers\\taskcreatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A834C1A3-7D9F-47BF-875F-6A83C48B83AE}|TaskService0032\\TaskService0032.csproj|d:\\programming projects\\.net\\weddingplannerapp\\taskservice0032\\messaging\\events\\taskupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A834C1A3-7D9F-47BF-875F-6A83C48B83AE}|TaskService0032\\TaskService0032.csproj|solutionrelative:taskservice0032\\messaging\\events\\taskupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A834C1A3-7D9F-47BF-875F-6A83C48B83AE}|TaskService0032\\TaskService0032.csproj|d:\\programming projects\\.net\\weddingplannerapp\\taskservice0032\\messaging\\events\\taskcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A834C1A3-7D9F-47BF-875F-6A83C48B83AE}|TaskService0032\\TaskService0032.csproj|solutionrelative:taskservice0032\\messaging\\events\\taskcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A834C1A3-7D9F-47BF-875F-6A83C48B83AE}|TaskService0032\\TaskService0032.csproj|d:\\programming projects\\.net\\weddingplannerapp\\taskservice0032\\messaging\\events\\eventbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A834C1A3-7D9F-47BF-875F-6A83C48B83AE}|TaskService0032\\TaskService0032.csproj|solutionrelative:taskservice0032\\messaging\\events\\eventbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EE9F7E-C95C-4CCF-AA5D-1BE06399C9D4}|EventBus\\EventBus0032.csproj|d:\\programming projects\\.net\\weddingplannerapp\\eventbus\\events\\integrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EE9F7E-C95C-4CCF-AA5D-1BE06399C9D4}|EventBus\\EventBus0032.csproj|solutionrelative:eventbus\\events\\integrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EE9F7E-C95C-4CCF-AA5D-1BE06399C9D4}|EventBus\\EventBus0032.csproj|d:\\programming projects\\.net\\weddingplannerapp\\eventbus\\interfaces\\ieventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EE9F7E-C95C-4CCF-AA5D-1BE06399C9D4}|EventBus\\EventBus0032.csproj|solutionrelative:eventbus\\interfaces\\ieventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EE9F7E-C95C-4CCF-AA5D-1BE06399C9D4}|EventBus\\EventBus0032.csproj|d:\\programming projects\\.net\\weddingplannerapp\\eventbus\\interfaces\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EE9F7E-C95C-4CCF-AA5D-1BE06399C9D4}|EventBus\\EventBus0032.csproj|solutionrelative:eventbus\\interfaces\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EE9F7E-C95C-4CCF-AA5D-1BE06399C9D4}|EventBus\\EventBus0032.csproj|d:\\programming projects\\.net\\weddingplannerapp\\eventbus\\eventbus0032.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5EE9F7E-C95C-4CCF-AA5D-1BE06399C9D4}|EventBus\\EventBus0032.csproj|solutionrelative:eventbus\\eventbus0032.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificationService0032.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\WeddingPlannerApp\\NotificationService0032\\Services\\NotificationService0032.cs",
+              "RelativeDocumentMoniker": "NotificationService0032\\Services\\NotificationService0032.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\WeddingPlannerApp\\NotificationService0032\\Services\\NotificationService0032.cs",
+              "RelativeToolTip": "NotificationService0032\\Services\\NotificationService0032.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:59:05.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITaskService0032.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\WeddingPlannerApp\\TaskService0032\\Services\\IService\\ITaskService0032.cs",
+              "RelativeDocumentMoniker": "TaskService0032\\Services\\IService\\ITaskService0032.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\WeddingPlannerApp\\TaskService0032\\Services\\IService\\ITaskService0032.cs",
+              "RelativeToolTip": "TaskService0032\\Services\\IService\\ITaskService0032.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:50:17.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\WeddingPlannerApp\\NotificationService0032\\Program.cs",
+              "RelativeDocumentMoniker": "NotificationService0032\\Program.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\WeddingPlannerApp\\NotificationService0032\\Program.cs",
+              "RelativeToolTip": "NotificationService0032\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAtwBAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:37:22.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskUpdatedEventHandler.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\WeddingPlannerApp\\NotificationService0032\\Handlers\\TaskUpdatedEventHandler.cs",
+              "RelativeDocumentMoniker": "NotificationService0032\\Handlers\\TaskUpdatedEventHandler.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\WeddingPlannerApp\\NotificationService0032\\Handlers\\TaskUpdatedEventHandler.cs",
+              "RelativeToolTip": "NotificationService0032\\Handlers\\TaskUpdatedEventHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:36:49.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskCreatedEventHandler.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\WeddingPlannerApp\\NotificationService0032\\Handlers\\TaskCreatedEventHandler.cs",
+              "RelativeDocumentMoniker": "NotificationService0032\\Handlers\\TaskCreatedEventHandler.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\WeddingPlannerApp\\NotificationService0032\\Handlers\\TaskCreatedEventHandler.cs",
+              "RelativeToolTip": "NotificationService0032\\Handlers\\TaskCreatedEventHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:35:44.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IntegrationEvent.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\WeddingPlannerApp\\EventBus\\Events\\IntegrationEvent.cs",
+              "RelativeDocumentMoniker": "EventBus\\Events\\IntegrationEvent.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\WeddingPlannerApp\\EventBus\\Events\\IntegrationEvent.cs",
+              "RelativeToolTip": "EventBus\\Events\\IntegrationEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:28:45.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventBus0032",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\WeddingPlannerApp\\EventBus\\EventBus0032.csproj",
+              "RelativeDocumentMoniker": "EventBus\\EventBus0032.csproj",
+              "ToolTip": "D:\\Programming projects\\.NET\\WeddingPlannerApp\\EventBus\\EventBus0032.csproj",
+              "RelativeToolTip": "EventBus\\EventBus0032.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-26T06:57:52.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEventHandler.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\WeddingPlannerApp\\EventBus\\Interfaces\\IEventHandler.cs",
+              "RelativeDocumentMoniker": "EventBus\\Interfaces\\IEventHandler.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\WeddingPlannerApp\\EventBus\\Interfaces\\IEventHandler.cs",
+              "RelativeToolTip": "EventBus\\Interfaces\\IEventHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:23:45.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEventBus.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\WeddingPlannerApp\\EventBus\\Interfaces\\IEventBus.cs",
+              "RelativeDocumentMoniker": "EventBus\\Interfaces\\IEventBus.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\WeddingPlannerApp\\EventBus\\Interfaces\\IEventBus.cs",
+              "RelativeToolTip": "EventBus\\Interfaces\\IEventBus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:23:04.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\WeddingPlannerApp\\TaskService0032\\Program.cs",
+              "RelativeDocumentMoniker": "TaskService0032\\Program.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\WeddingPlannerApp\\TaskService0032\\Program.cs",
+              "RelativeToolTip": "TaskService0032\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAWwB0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T06:55:43.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task0032Service.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\WeddingPlannerApp\\TaskService0032\\Services\\Task0032Service.cs",
+              "RelativeDocumentMoniker": "TaskService0032\\Services\\Task0032Service.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\WeddingPlannerApp\\TaskService0032\\Services\\Task0032Service.cs",
+              "RelativeToolTip": "TaskService0032\\Services\\Task0032Service.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T06:50:17.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskUpdatedEvent.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\WeddingPlannerApp\\TaskService0032\\Messaging\\Events\\TaskUpdatedEvent.cs",
+              "RelativeDocumentMoniker": "TaskService0032\\Messaging\\Events\\TaskUpdatedEvent.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\WeddingPlannerApp\\TaskService0032\\Messaging\\Events\\TaskUpdatedEvent.cs",
+              "RelativeToolTip": "TaskService0032\\Messaging\\Events\\TaskUpdatedEvent.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T06:02:45.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskCreatedEvent.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\WeddingPlannerApp\\TaskService0032\\Messaging\\Events\\TaskCreatedEvent.cs",
+              "RelativeDocumentMoniker": "TaskService0032\\Messaging\\Events\\TaskCreatedEvent.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\WeddingPlannerApp\\TaskService0032\\Messaging\\Events\\TaskCreatedEvent.cs",
+              "RelativeToolTip": "TaskService0032\\Messaging\\Events\\TaskCreatedEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T06:01:51.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventBase.cs",
+              "DocumentMoniker": "D:\\Programming projects\\.NET\\WeddingPlannerApp\\TaskService0032\\Messaging\\Events\\EventBase.cs",
+              "RelativeDocumentMoniker": "TaskService0032\\Messaging\\Events\\EventBase.cs",
+              "ToolTip": "D:\\Programming projects\\.NET\\WeddingPlannerApp\\TaskService0032\\Messaging\\Events\\EventBase.cs",
+              "RelativeToolTip": "TaskService0032\\Messaging\\Events\\EventBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T05:56:23.248Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

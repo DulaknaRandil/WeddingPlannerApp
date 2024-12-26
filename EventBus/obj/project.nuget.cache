@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "fiF3vGiHQA5xiD4XN/qlJBnGDBXHn9xj7fF9F+NxrM705DT0ZPrpc5grFpcGtTmn9/AYFVNC+soWuYjzMNZkVA==",
+  "success": true,
+  "projectFilePath": "D:\\Programming projects\\.NET\\WeddingPlannerApp\\EventBus\\EventBus0032.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\randi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0\\microsoft.extensions.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\randi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\randi\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\randi\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\randi\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

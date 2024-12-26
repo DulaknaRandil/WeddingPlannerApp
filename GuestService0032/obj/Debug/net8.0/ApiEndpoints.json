@@ -1,0 +1,172 @@
+[
+  {
+    "ContainingType": "GuestService0032.Controllers.Guest0032Controller",
+    "Method": "AddGuest",
+    "RelativePath": "api/Guest0032/AddGuest",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newGuest",
+        "Type": "GuestService0032.Models.Guest0032",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GuestService0032.Controllers.Guest0032Controller",
+    "Method": "AddGuestGroup",
+    "RelativePath": "api/Guest0032/AddGuestGroup",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newGroup",
+        "Type": "GuestService0032.Models.GuestGroup0032",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GuestService0032.Controllers.Guest0032Controller",
+    "Method": "DeleteGuest",
+    "RelativePath": "api/Guest0032/DeleteGuest/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GuestService0032.Controllers.Guest0032Controller",
+    "Method": "DeleteGuestGroup",
+    "RelativePath": "api/Guest0032/DeleteGuestGroup/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GuestService0032.Controllers.Guest0032Controller",
+    "Method": "GetGuestById",
+    "RelativePath": "api/Guest0032/GetGuestById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GuestService0032.Controllers.Guest0032Controller",
+    "Method": "GetGuestGroupById",
+    "RelativePath": "api/Guest0032/GetGuestGroupById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GuestService0032.Controllers.Guest0032Controller",
+    "Method": "GetGuestGroupsByEvent",
+    "RelativePath": "api/Guest0032/GetGuestGroupsByEvent/{eventId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "eventId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GuestService0032.Controllers.Guest0032Controller",
+    "Method": "GetGuestsByEvent",
+    "RelativePath": "api/Guest0032/GetGuestsByEvent/{eventId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "eventId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GuestService0032.Controllers.Guest0032Controller",
+    "Method": "UpdateGuest",
+    "RelativePath": "api/Guest0032/UpdateGuest/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedGuest",
+        "Type": "GuestService0032.Models.Guest0032",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GuestService0032.Controllers.Guest0032Controller",
+    "Method": "UpdateGuestGroup",
+    "RelativePath": "api/Guest0032/UpdateGuestGroup/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "guestIds",
+        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

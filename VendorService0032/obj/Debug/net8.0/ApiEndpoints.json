@@ -1,0 +1,145 @@
+[
+  {
+    "ContainingType": "VendorService0032.Controllers.VendorController0032",
+    "Method": "AddVendor",
+    "RelativePath": "api/VendorController0032/AddVendor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vendor",
+        "Type": "VendorService0032.Models.Vendor0032",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VendorService0032.Controllers.VendorController0032",
+    "Method": "DeleteVendor",
+    "RelativePath": "api/VendorController0032/DeleteVendor/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VendorService0032.Controllers.VendorController0032",
+    "Method": "GetAllVendors",
+    "RelativePath": "api/VendorController0032/GetAllVendors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VendorService0032.Controllers.VendorController0032",
+    "Method": "GetVendorById",
+    "RelativePath": "api/VendorController0032/GetVendorById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VendorService0032.Controllers.VendorController0032",
+    "Method": "UpdateVendor",
+    "RelativePath": "api/VendorController0032/UpdateVendor/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedVendor",
+        "Type": "VendorService0032.Models.Vendor0032",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VendorService0032.Controllers.VendorScheduleController0032",
+    "Method": "AddSchedule",
+    "RelativePath": "api/VendorScheduleController0032/AddSchedule",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "schedule",
+        "Type": "VendorService0032.Models.VendorSchedule0032",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VendorService0032.Controllers.VendorScheduleController0032",
+    "Method": "DeleteSchedule",
+    "RelativePath": "api/VendorScheduleController0032/DeleteSchedule/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VendorService0032.Controllers.VendorScheduleController0032",
+    "Method": "GetScheduleById",
+    "RelativePath": "api/VendorScheduleController0032/GetScheduleById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VendorService0032.Controllers.VendorScheduleController0032",
+    "Method": "GetSchedulesByEventId",
+    "RelativePath": "api/VendorScheduleController0032/GetSchedulesByEventId/{eventId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "eventId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
